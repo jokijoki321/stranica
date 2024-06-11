@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moja Prva Web Stranica</title>
+</head>
+<body>
+    <h1>Dobrodošli na moju prvu web stranicu!</h1>
+    <p>Ovo je jednostavan HTML program koji prikazuje naslov i paragraf teksta. HTML (HyperText Markup Language) je jezik za izradu web stranica.</p>
+</body>
+</html>
